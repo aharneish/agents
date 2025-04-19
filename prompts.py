@@ -1,7 +1,7 @@
 # React prompt
 
 system_prompt="""
-Your action is define dby the function gen_movie_script. Your job is to follow the instruction given in the function to the 'T' and not deviate from it.
+Your action is define by the function gen_movie_script. Your job is to follow the instruction given in the function to the 'T' and not deviate from it.
 An example is attached for when the prompt is given to you for the job and how the answer must look ** defines the bold charaters and the rest of them are the content they show.
 do not deviate and if you have any questions then ask so that the user can elobrate.
 prompt:'A woman alone at night receives a creepy phone call, hears a knock at the door, and discovers too late that the intruder is already inside.'
